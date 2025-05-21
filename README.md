@@ -5,18 +5,18 @@ This project uses SQL to analyze customer behavior using a sample Cyclist data. 
 - Comparative values shown side by side
 
 ## Files
-cyclist#2dataMay.xlsx - Cyclist data for May
-Cyclistdata.xlsx - Cyclist data for April
-MayandAprildata.sql - SQL code
-Mayandapril_data_sql.csv - Sql csv
-Cyclist presentation.pdf - Presentation
-https://public.tableau.com/app/profile/casey.lemos/viz/CyclistData_17477707417620/Dashboard1 - Visual Dashboard
+- cyclist#2dataMay.xlsx - Cyclist data for May
+- Cyclistdata.xlsx - Cyclist data for April
+- MayandAprildata.sql - SQL code
+- Mayandapril_data_sql.csv - Sql csv
+- Cyclist presentation.pdf - Presentation
+- https://public.tableau.com/app/profile/casey.lemos/viz/CyclistData_17477707417620/Dashboard1 - Visual Dashboard
 
 ## Tools used
-BigQuery for SQL execution
-Excel 
-Tableau
-Google Slides
+- BigQuery for SQL execution
+- Excel 
+- Tableau
+- Google Slides
 
 ## Author
 [Casey Lemos](https://github.com/caseyishere)
