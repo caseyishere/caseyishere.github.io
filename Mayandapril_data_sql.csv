@@ -1,0 +1,16 @@
+member_casual,rideable_type,day_of_week,april_ride_count,may_ride_count,april_avg_minutes,may_avg_minutes,percent_difference
+ALL,docked_bike,ALL,84677,199953,23.91,30.12,25.94
+casual,docked_bike,Friday,2507,12741,36.46,43.02,17.99
+casual,docked_bike,Monday,2677,10522,35.14,45.61,29.8
+casual,docked_bike,Saturday,4065,27576,42.34,44.77,5.74
+casual,docked_bike,Sunday,6468,13193,42.84,49.53,15.62
+casual,docked_bike,Thursday,2426,7383,32.54,39.31,20.81
+casual,docked_bike,Tuesday,3651,6162,41.24,42.34,2.67
+casual,docked_bike,Wednesday,1794,9186,34.86,41.07,17.81
+member,docked_bike,Friday,7454,19932,17.3,18.71,8.15
+member,docked_bike,Monday,8055,13100,17.33,18.54,6.98
+member,docked_bike,Saturday,8833,27032,19.57,21.19,8.28
+member,docked_bike,Sunday,11429,13298,20.87,21.1,1.1
+member,docked_bike,Thursday,9256,12988,15.78,17.88,13.31
+member,docked_bike,Tuesday,9146,11065,17.86,17.13,-4.09
+member,docked_bike,Wednesday,6916,15775,15.92,18.23,14.51
