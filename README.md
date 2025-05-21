@@ -1,2 +1,9 @@
 # caseyishere.github.io
+# Customer analysis SQL project
+This project uses SQL to analyze customer behavior using a sample Cyclist data. It includes queries for
+- Counts, Averages, Percent differences
+- Comparative values shown side by side
+
+## Files
+
 In this project of how Cyclist annual members and casual members use bikes differently, I demonstrate my thought process of analyzing data. I make sure the data is clean and rid of any blanks, duplicates and other errors in excel. I than create a pivot table to further analyze the data. Once I have a clear understanding of the data, I transfer the data to big query. I than create tables and write a query that joins the two data sets I imported. I than transfer the created query to tableau and create a visual. 
