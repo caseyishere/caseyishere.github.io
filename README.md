@@ -21,6 +21,22 @@ This project uses SQL to analyze customer behavior using a sample Cyclist data. 
 ## Author
 [Casey Lemos](https://github.com/caseyishere)
 
+### The Company
+Cyclistic is a fictional bike-share company based in Chicago, US. They have classic bikes and electric bikes. They sell 3 bike-share tiers:
+1. Single-Ride Passes (“casual rider”)
+2. All-Day Passes (“casual rider”)
+3. Annual Membership
+
+### Background
+I am a Data Analyst working at Cyclistic. The Director of Marketing believes the company’s future success depends on maximising the number of annual memberships. Therefore, the Director of Marketing wants to understand how casual riders and annual membership riders use Cyclistic bikes differently. 
+
+### Questions to Answer
+1. How do annual members and casual riders use bikes differently?
+2. What are the differences between the months of May and April?
+
+### Objective
+Identify if there are differences in the days that cyclist use bikes that contribute in the amount of time the cyclist use them. 
+
 ### Google Spreadsheet Analysis
 
 Pivot Table for April
@@ -50,20 +66,9 @@ Query Results
 <img width="676" alt="Query Results Average" src="https://github.com/user-attachments/assets/1c76493a-27a0-472f-b811-83ffae4e4587" />
 
 
-
-
-
-
 ### Tableau Data
 
 <img width="1440" alt="Tableau Cyclist Data" src="https://github.com/user-attachments/assets/0045ad1a-9217-4d45-8363-ff445331f8d7" />
-
-
-
-
-
-
-
 
 
 In this project of how Cyclist annual members and casual members use bikes differently, I demonstrate my thought process of analyzing data. I make sure the data is clean and rid of any blanks, duplicates and other errors in excel. I than create a pivot table to further analyze the data. Once I have a clear understanding of the data, I transfer the data to big query. I than create tables and write a query that joins the two data sets I imported. I than transfer the created query to tableau and create a visual. 
