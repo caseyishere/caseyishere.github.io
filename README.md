@@ -82,6 +82,20 @@ In the month of May, the bar chart shows that there are more casual riders bikin
  Average minutes in April for annual members is 18 minutes and May is 19.25 minutes.
 Average minutes in April for casual members is 39.29 and May is 44.31. 
 
+### Conclusion
+1. 	Casual members on average
+ use bikes longer than 
+annual members.
+
+2. There are more casual members
+ riding bikes on Saturday and 
+Sunday than any given day.
+
+3. There are more cyclist using 
+bikes depending on the
+ month. 
+
+
 
 
 
