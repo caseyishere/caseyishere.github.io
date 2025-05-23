@@ -1,11 +1,4 @@
 # caseyishere.github.io
-<p align="center">
-  <img src="images/Profile pic.png" width="150" style="border-radius: 50%;" alt="logo" />
-</p>
-
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<p align="center">Aspiring Data Analyst | SQL • Excel • Tableau • Python</p>
-
 
 # Customer analysis SQL project
 This project uses SQL to analyze customer behavior using a sample Cyclist data. It includes queries for
