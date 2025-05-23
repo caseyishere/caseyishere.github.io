@@ -30,6 +30,16 @@ Pivot Table for April
 Pivot Table for May
 <img width="624" alt="Pivot table May" src="https://github.com/user-attachments/assets/1edd8295-bfb7-46f5-ba4f-20af4aa643a7" />
 
+### BigQuery SQL
+<img width="965" alt="BigQuery SQL Cyclist" src="https://github.com/user-attachments/assets/7a090a6e-e7be-4ce0-a86e-43fd49911e25" />
+<img width="941" alt="Cyclist SQL 24-40" src="https://github.com/user-attachments/assets/42d90b15-9b7e-4f81-90b0-0ad8ceb87ab4" />
+<img width="609" alt="Cyclist SQL 47-69" src="https://github.com/user-attachments/assets/184ace55-f996-4584-9a50-74cfec611c39" />
+<img width="898" alt="Cyclist SQL 70-92" src="https://github.com/user-attachments/assets/bfe0bd2c-180d-45dd-8e43-669618a7a167" />
+<img width="227" alt="Cyclist SQL 93-103" src="https://github.com/user-attachments/assets/179c2e25-340e-492f-aae9-07e6a8806616" />
+
+
+
+
 
 
 
