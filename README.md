@@ -22,7 +22,15 @@ This project uses SQL to analyze customer behavior using a sample Cyclist data. 
 [Casey Lemos](https://github.com/caseyishere)
 
 ### Google Spreadsheet Analysis
+
+Pivot Table for April
 <img width="602" alt="Pivot Table" src="https://github.com/user-attachments/assets/3cea17f5-1665-4488-b532-e956ad45fc2f" />
+
+
+Pivot Table for May
+<img width="624" alt="Pivot table May" src="https://github.com/user-attachments/assets/1edd8295-bfb7-46f5-ba4f-20af4aa643a7" />
+
+
 
 
 
