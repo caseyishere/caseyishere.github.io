@@ -1,4 +1,5 @@
 # caseyishere.github.io
+![My Photo](images/Profile pic.png)
 # Customer analysis SQL project
 This project uses SQL to analyze customer behavior using a sample Cyclist data. It includes queries for
 - Counts, Averages, Percent differences
