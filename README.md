@@ -3,7 +3,8 @@
 This project uses SQL to analyze customer behavior using a sample Cyclist data. It includes queries for
 - Counts, Averages, Percent differences
 - Comparative values shown side by side
-Data cleaning was done in Google Spreadsheets. Filtered and cleaned blanks, duplicates, nulls and time values.
+
+There was also data cleaning done in Google Spreadsheets. Filtered and cleaned blanks, duplicates, nulls and time values.
 Used formulas to sum averages up. 
 
 ## Files
