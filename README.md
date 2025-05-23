@@ -73,5 +73,16 @@ Query Results
 
 <img width="1440" alt="Tableau Cyclist Data" src="https://github.com/user-attachments/assets/0045ad1a-9217-4d45-8363-ff445331f8d7" />
 
+In the month of April, average minutes, ride count and percent difference vary by day of the week for casual and annual members.
+There is little correlation between day of week and ride count. 
+Saturday and Sunday are strong indicators of how cyclist use bikes differently. 
+
+In the month of May, the bar chart shows that there are more casual riders biking on Saturday than any given day. 
+ Annual members use the bikes for less minutes than casual members on any given day.
+ Average minutes in April for annual members is 18 minutes and May is 19.25 minutes.
+Average minutes in April for casual members is 39.29 and May is 44.31. 
+
+
+
 
 In this project of how Cyclist annual members and casual members use bikes differently, I demonstrate my thought process of analyzing data. I make sure the data is clean and rid of any blanks, duplicates and other errors in excel. I than create a pivot table to further analyze the data. Once I have a clear understanding of the data, I transfer the data to big query. I than create tables and write a query that joins the two data sets I imported. I than transfer the created query to tableau and create a visual. 
