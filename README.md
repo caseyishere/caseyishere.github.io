@@ -37,6 +37,23 @@ Pivot Table for May
 <img width="898" alt="Cyclist SQL 70-92" src="https://github.com/user-attachments/assets/bfe0bd2c-180d-45dd-8e43-669618a7a167" />
 <img width="227" alt="Cyclist SQL 93-103" src="https://github.com/user-attachments/assets/179c2e25-340e-492f-aae9-07e6a8806616" />
 
+### BigQuery SQL Results
+<img width="1264" alt="Query Results" src="https://github.com/user-attachments/assets/e0e9a9a2-774e-492f-bfed-a2bd1ab416e7" />
+
+### BigQuery SQl Total Average
+Average for Casual and Member riders
+<img width="967" alt="Total average for april and may minutes" src="https://github.com/user-attachments/assets/0bc96ec1-3170-46a1-ade7-c129fd73f971" />
+<img width="718" alt="Total Average 22-30" src="https://github.com/user-attachments/assets/fda1fea7-5119-4ae4-9005-bc666c011013" />
+
+Query Results 
+
+<img width="676" alt="Query Results Average" src="https://github.com/user-attachments/assets/1c76493a-27a0-472f-b811-83ffae4e4587" />
+
+
+
+
+
+
 ### Tableau Data
 
 <img width="1440" alt="Tableau Cyclist Data" src="https://github.com/user-attachments/assets/0045ad1a-9217-4d45-8363-ff445331f8d7" />
