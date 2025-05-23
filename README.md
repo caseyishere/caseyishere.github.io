@@ -21,7 +21,7 @@ This project uses SQL to analyze customer behavior using a sample Cyclist data. 
 ## Author
 [Casey Lemos](https://github.com/caseyishere)
 
-## Project
+### Google Spreadsheet Analysis
 
 ![Google Spreadsheet Screenshot](screenshots/Pivot Table.png)
 
