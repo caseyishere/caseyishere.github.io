@@ -1,5 +1,3 @@
-# caseyishere.github.io
-
 # Customer analysis SQL project
 This project uses SQL to analyze customer behavior using a sample Cyclist data. It includes queries for
 - Counts, Averages, Percent differences
