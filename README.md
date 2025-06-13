@@ -7,7 +7,7 @@ There was also data cleaning done in Google Spreadsheets. Filtered and cleaned b
 Used formulas to sum averages up. 
 
 - Another project was done in other repository. Click here to view :
-[View the interactive dashboard on Tableau Public!](https://github.com/caseyishere/project2)
+[View project on Medicaid and Medicare enrollees!](https://github.com/caseyishere/project2)
 
 ## Files
 - cyclist#2dataMay.xlsx - Cyclist data for May
