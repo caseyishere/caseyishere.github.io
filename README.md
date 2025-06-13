@@ -6,7 +6,8 @@ This project uses SQL to analyze customer behavior using a sample Cyclist data. 
 There was also data cleaning done in Google Spreadsheets. Filtered and cleaned blanks, duplicates, nulls and time values.
 Used formulas to sum averages up. 
 
-- Another project was done in other repository. Click here to view : https://github.com/caseyishere/project2/blob/main/README.md
+- Another project was done in other repository. Click here to view :
+[View the interactive dashboard on Tableau Public!](https://github.com/caseyishere/project2)
 
 ## Files
 - cyclist#2dataMay.xlsx - Cyclist data for May
